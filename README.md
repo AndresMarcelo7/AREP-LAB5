@@ -66,9 +66,9 @@ If you want to access the web containers, you can go to localhost:8081,localhost
 ![Architecture](img/architecture.png)
 
 ## Demo
-### AWS EC2 Console:
+### AWS EC2 Console: [Full Video On YouTube](https://youtu.be/4VI-g27sb3c)
 ![ec2Console](https://media.giphy.com/media/ZXLFI4pUR1IobObOV0/giphy.gif)
 ### Security Group:
 ![sec](img/10SecurityGroup.jpg)
-### Browser:
-![test](https://drive.google.com/uc?export=view&id=1D5Upx-Tynt47Z8twznJ9qLs8xJTetq0d)
+### Browser:[Full Video On YouTube](https://youtu.be/bR5paW5PH4U)
+![test](https://media.giphy.com/media/9XF9nAdz2Iejqno5zS/giphy.gif)
