@@ -56,6 +56,13 @@ You must download both images (balancer and web) from dockerhub with the command
 docker pull andresmarcelo7/arep5balancer:latest
 docker pull andresmarcelo7/arep5web:latest
 ```
+## Documentation:
+
+The Javadoc Index.html is in docs directory, and also you can generate teh javadoc running:
+```
+mvn javadoc:javadoc
+```
+
 ## Run
 
 If you want to locally run the network please run the following command:
@@ -68,6 +75,7 @@ In windows, docker-compose is already in docker desktop.
 then go to localhost:8084 in order to access directly to the Load Balancer container.
 If you want to access the web containers, you can go to localhost:8081,localhost:8082 and localhost:8083, but in AWS EC2 the 8084 port was the only oppened port for traffic.the applicattion will follow this architecture on AWS(For more information about how it worked on AWS plese visit the Documentation File):
 ![Architecture](img/architecture.png)
+
 
 ## Demo
 ### AWS EC2 Console: [Full Video On YouTube](https://youtu.be/4VI-g27sb3c)
