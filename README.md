@@ -67,7 +67,7 @@ If you want to access the web containers, you can go to localhost:8081,localhost
 
 ## Demo
 ### AWS EC2 Console:
-![ec2Console](https://thumbs.gfycat.com/InbornOddballCrocodile-mobile.mp4)
+![ec2Console](https://media.giphy.com/media/ZXLFI4pUR1IobObOV0/giphy.gif)
 ### Security Group:
 ![sec](img/10SecurityGroup.jpg)
 ### Browser:
