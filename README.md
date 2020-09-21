@@ -62,6 +62,7 @@ The Javadoc Index.html is in docs directory, and also you can generate teh javad
 ```
 mvn javadoc:javadoc
 ```
+to see the App description of architecture and design please read the  [Documentation](/Documentacion.pdf) file.
 
 ## Run
 
