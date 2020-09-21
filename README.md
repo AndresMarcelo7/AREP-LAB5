@@ -41,11 +41,11 @@ The application was uploaded to an EC2 hosted on AWS, but for cost purposes the 
 Please clone this repository on your computer with the command:
 
 ```
-git clone https://github.com/AndresMarcelo7/LAB5-AREP
+git clone https://github.com/AndresMarcelo7/AREP-LAB5
 ```
 Once finished, you must navigate into the project:
 ```
-cd /LAB5-AREP
+cd /AREP-LAB5
 ```
 You must download both images (balancer and web) from dockerhub with the command:  
 ```
