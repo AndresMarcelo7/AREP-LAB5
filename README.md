@@ -8,6 +8,10 @@ The Docker Images are  located in:
 - Balancer: https://hub.docker.com/repository/docker/andresmarcelo7/arep5balancer
 
 ## Repos: 
+ServerLoadBalancer CircleCI:  
+[![CircleCI](https://circleci.com/gh/AndresMarcelo7/AREP-LAB5.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/AREP-LAB5)  
+ServerWeb CircleCI:  
+[![CircleCI](https://circleci.com/gh/AndresMarcelo7/WebServerDocker.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/WebServerDocker)  
 This repo contains the Load Balancer code and on the next link you'll find  the web server repo [WEB SERVER GITHUB](https://github.com/AndresMarcelo7/WebServerDocker)
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
