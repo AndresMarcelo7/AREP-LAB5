@@ -65,8 +65,9 @@ mvn javadoc:javadoc
 to see the App description of architecture and design please read the  [Documentation](/Documentacion.pdf) file.
 
 ## Run
+If you want to generate the images directly by the source code without DockerHub plese visit [All In 1 LAB5 repository](https://github.com/AndresMarcelo7/AREPLAB5ALL)
 
-If you want to locally run the network please run the following command:
+If you want to run the containers directly from  the DockerHub images please run the following command:
 ```
 docker-compose up -d --scale web=3
 ```
